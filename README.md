@@ -53,16 +53,6 @@ python folder_backup.py --source "C:\Users\HP1\Desktop\source_files" --destinati
 * logging
 * zipfile
 
-## Project Structure
-
-```text
-folder-backup-tool/
-│
-├── folder_backup.py
-├── README.md
-└── .gitignore
-```
-
 ## Author
 
 Aman Shaik
