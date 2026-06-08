@@ -1,6 +1,6 @@
-# Folder Backup Tool
+# Folder Backup / Sync Tool
 
-Python-based folder backup and sync automation tool with timestamped backups, ZIP compression, logging, dry-run support, and old backup rotation using CLI arguments.
+Python-based folder backup and synchronization tool with timestamped backups, ZIP compression, logging, dry-run support, and automated backup rotation using CLI arguments.
 
 ## Features
 
